@@ -1,4 +1,4 @@
-# Desafio DIO - Criando um Sistema Bancário com Python
+# Desafio DIO - Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
 ## Autor: João Gabriel Carvalho
 ## Bootcamp: Potência Tech powered by iFood | Ciências de Dados com Python
